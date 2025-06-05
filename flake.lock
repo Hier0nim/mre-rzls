@@ -153,11 +153,11 @@
         "plugins-venv-selector-nvim": "plugins-venv-selector-nvim"
       },
       "locked": {
-        "lastModified": 1749127470,
-        "narHash": "sha256-nH+x1iOf1fqg8/jLalz/2skGG9qcGift2CbwhL+FoSw=",
+        "lastModified": 1749130563,
+        "narHash": "sha256-/q1PVgQxhbrKc8YdenXs3KiQ3MWgwCeiV6sRUxQnHns=",
         "owner": "Hier0nim",
         "repo": "nvim",
-        "rev": "34ca507002e925803ebc505bcb07f719f9e2a321",
+        "rev": "29b3f54624236a1520190ea1ecac51a96813331c",
         "type": "github"
       },
       "original": {
