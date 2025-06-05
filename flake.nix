@@ -37,9 +37,6 @@
           default = pkgs.mkShell {
             packages = [
               pkgs.dotnetCorePackages.dotnet_10.sdk
-              pkgs.dotnetPackages.Nuget
-              pkgs.netcoredbg
-
               nixCats.packages.x86_64-linux.nvim-dotnet
             ];
           };
